@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-09-08T13:55:13+00:00</updated>
+    <updated>2015-09-10T16:23:57+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/09/10/interview-for-jaxenter/</id>
+        <title>Interview with Sandro Mancuso - Software Craftsmanship</title>
+        <link href="http://codurance.com/2015/09/10/interview-for-jaxenter/"/>
+        <published>2015-09-10T16:36:00+00:00</published>
+        
+        <summary type="html">&lt;blockquote&gt;&lt;p&gt;Thinking of code as a beautiful work of art is a mistake. But at the same time we need to start seeing coding as a genuine skill that deserves professional recognition, says leading Software Craftsmanship advocate and JAX London speaker Sandro Mancuso.&lt;/p&gt;&lt;/blockquote&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/08/26/My-first-walking-skeleton/</id>
@@ -179,18 +191,6 @@ I passed by all the checks Github does to make sure you know what you&#39;re doi
         <published>2015-06-17T02:34:00+00:00</published>
         
         <summary type="html">&lt;p&gt;We all say that software design is all about trade-offs but how do we actually reason about it? How do we decide how much code we are going to write for a given task? Is the easiest thing that could possibly work the right approach? The simplest? How do we know the &lt;a href=&quot;http://www.infoq.com/presentations/Simple-Made-Easy&quot;&gt;difference between simple and easy&lt;/a&gt;? Is this even the right question?&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/06/13/big-data-skills-spectrum/</id>
-        <title>Big Data Skills Spectrum</title>
-        <link href="http://codurance.com/2015/06/13/big-data-skills-spectrum/"/>
-        <published>2015-06-13T18:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Big Data has been a hype for many years. I’ve seen a few “Big Data” projects start in the past with a lot of fanfare and promise.The promise has always been that “we will start getting a holistic picture of our departmental silos and gain numerous insights from our data that will help us get ahead of our competitors”. The promise was rarely, if ever, fulfilled and the “Big Data” team slowly faded into the rest of the melting pot that we call the “IT department” in most large enterprises.&lt;/p&gt;
 
 </summary>
         
