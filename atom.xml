@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-09-14T19:18:05+00:00</updated>
+    <updated>2015-09-14T21:41:18+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/09/14/clojure-schemas-are-swagger/</id>
+        <title>Clojure (Prismatic) Schemas are Swagger</title>
+        <link href="http://codurance.com/2015/09/14/clojure-schemas-are-swagger/"/>
+        <published>2015-09-14T12:00:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Recently, I decided to include Swagger documentation to our time sheet application. Although Swagger provides tools to help clients integrate with your REST API the most powerful feature, in my opinion, is that it acts as &quot;living documentation&quot; for the API. Adding Swagger to my the application had a couple of pleasant side-effects:&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/09/10/interview-for-jaxenter/</id>
@@ -179,18 +191,6 @@ I passed by all the checks Github does to make sure you know what you&#39;re doi
         <published>2015-06-17T09:00:00+00:00</published>
         
         <summary type="html">&lt;h2&gt;The inevitable imbalance in pair programming.&lt;/h2&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/06/17/inflection-point/</id>
-        <title>Inflection Point</title>
-        <link href="http://codurance.com/2015/06/17/inflection-point/"/>
-        <published>2015-06-17T02:34:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;We all say that software design is all about trade-offs but how do we actually reason about it? How do we decide how much code we are going to write for a given task? Is the easiest thing that could possibly work the right approach? The simplest? How do we know the &lt;a href=&quot;http://www.infoq.com/presentations/Simple-Made-Easy&quot;&gt;difference between simple and easy&lt;/a&gt;? Is this even the right question?&lt;/p&gt;
 
 </summary>
         
