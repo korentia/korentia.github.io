@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-09-25T21:24:51+00:00</updated>
+    <updated>2015-09-28T23:28:54+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/09/29/codereview/</id>
+        <title>Code review: Why are we doing it?</title>
+        <link href="http://codurance.com/2015/09/29/codereview/"/>
+        <published>2015-09-29T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Developers across many organisations adopted code reviews as one of their core practices. Although that sounds a very reasonable thing to do, overtime the goal that led to the adoption of the practice is forgotten and the only thing left is the mindless application of the practice itself.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/09/14/clojure-schemas-are-swagger/</id>
@@ -179,18 +191,6 @@ I passed by all the checks Github does to make sure you know what you&#39;re doi
         <published>2015-06-19T17:00:00+00:00</published>
         
         <summary type="html">&lt;h1&gt;Cloud Application Design Considerations&lt;/h1&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/06/17/finding-the-biting-point/</id>
-        <title>Finding the biting point with pair programming</title>
-        <link href="http://codurance.com/2015/06/17/finding-the-biting-point/"/>
-        <published>2015-06-17T09:00:00+00:00</published>
-        
-        <summary type="html">&lt;h2&gt;The inevitable imbalance in pair programming.&lt;/h2&gt;
 
 </summary>
         
