@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-09-28T23:57:57+00:00</updated>
+    <updated>2015-09-29T16:08:34+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -17,7 +17,7 @@
         <link href="http://codurance.com/2015/09/29/codereview/"/>
         <published>2015-09-29T00:20:00+00:00</published>
         
-        <summary type="html">&lt;p&gt;Developers across many organisations adopted code reviews as one of their core practices. Although that sounds a very reasonable thing to do, overtime the goal that led to the adoption of the practice is forgotten and the only thing left is the mindless application of the practice itself.&lt;/p&gt;
+        <summary type="html">&lt;p&gt;Developers across many organisations adopted code reviews as one of their core practices. Although that sounds like a very reasonable thing to do, over time the goal that led to the adoption of the practice is forgotten and the only thing left is the mindless application of the practice itself.&lt;/p&gt;
 
 </summary>
         
