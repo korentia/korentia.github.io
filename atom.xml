@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-10-26T09:35:47+00:00</updated>
+    <updated>2015-10-26T17:20:31+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/10/22/transcending-rest-and-rpc/</id>
+        <title>Transcending REST and RPC</title>
+        <link href="http://codurance.com/2015/10/22/transcending-rest-and-rpc/"/>
+        <published>2015-10-22T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;It seems that a new paradigm is coming. Facebook and Netflix have come up with different implementations for that idea. Some people are calling it &lt;a href=&quot;http://www.infoq.com/presentations/domain-driven-architecture&quot;&gt;Demand-Driven Architecture&lt;/a&gt;, but before I show you some solutions, let&#39;s go over some history to understand the problem. I will use the example that Netflix provides, but I think that most of us will find the patterns familiar.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/09/29/codereview/</id>
@@ -179,18 +191,6 @@ I passed by all the checks Github does to make sure you know what you&#39;re doi
         <published>2015-06-30T12:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;The popularity of cloud infrastructure services has hugely increased over the last few years. Companies value the flexibility and reliability provided by such services. The simplicity of the solutions delivered by cloud providers should remove the burden from the shoulders of busy Dev and Ops people and give the possibility to focus on real customer&#39;s needs.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/06/19/cloud-application-design-considerations/</id>
-        <title>Cloud Application Design Considerations</title>
-        <link href="http://codurance.com/2015/06/19/cloud-application-design-considerations/"/>
-        <published>2015-06-19T17:00:00+00:00</published>
-        
-        <summary type="html">&lt;h1&gt;Cloud Application Design Considerations&lt;/h1&gt;
 
 </summary>
         
