@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-10-30T22:28:47+00:00</updated>
+    <updated>2015-11-01T18:51:35+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/11/01/practicing-well-crafted-design/</id>
+        <title>Practicing Well-Crafted Design</title>
+        <link href="http://codurance.com/2015/11/01/practicing-well-crafted-design/"/>
+        <published>2015-11-01T18:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Katas are great, but not enough. In the past year I’ve been trying to find ways to teach our craftsmen and apprentices how to design software. Although we could discuss good design principles, it was very difficult to find a way to practice them. Katas are great for learning TDD, micro design, working in baby steps, and a few techniques for dealing with legacy code but we need more. We would like to practice requirements gathering, domain modelling, and well-crafted code all together, with the same fast feedback loop we get when we do katas. The problem is that we need a far bigger problem with overlapping rules so that we can experience incremental software design. Inspired by a session we had a &lt;a href=&quot;https://www.socrates-conference.de/&quot;&gt;Socrates Germany 2015&lt;/a&gt;, we are evolving a deliberate practice session that is allowing us to achieve that.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/10/26/Talk-to-the-business/</id>
@@ -179,18 +191,6 @@
         
         <summary type="html">&lt;p&gt;On my second day at Codurance, I managed to delete the repository with &lt;a href=&quot;http://codurance.com/&quot;&gt;Codurance&#39;s GitHub Pages&lt;/a&gt; on it. This made the website unavailable for the first time in a long time, and during best business hours.
 I passed by all the checks Github does to make sure you know what you&#39;re doing, thinking I was about to delete the fork I accidentally created. When I saw afterwards that the fork was still there, I immediately realized what I had done.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/07/13/How-to-start-doing-TDD-in-iOS/</id>
-        <title>How to start doing TDD in iOS</title>
-        <link href="http://codurance.com/2015/07/13/How-to-start-doing-TDD-in-iOS/"/>
-        <published>2015-07-13T12:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;I like to do apps. As a newbie TDD developer, I&#39;ve made my apps with tests but not driven by tests. I want to change that. I&#39;m learning to be a Craftsman, so TDD is an essential technique to know. It&#39;s your main tool. At Codurance it&#39;s unthinkable that you could code without doing TDD. That&#39;s one of the things that you learn in our apprenticeship program: to be able to do TDD without thinking about it and feel as if it&#39;s natural: as you breath to survive you do TDD to code.&lt;/p&gt;
 
 </summary>
         
