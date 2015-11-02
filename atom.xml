@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-01T19:11:58+00:00</updated>
+    <updated>2015-11-02T07:55:35+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/11/02/time-to-go/</id>
+        <title>Time To Go</title>
+        <link href="http://codurance.com/2015/11/02/time-to-go/"/>
+        <published>2015-11-02T09:00:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;I&#39;m writing that blog post I never thought I&#39;d write.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/11/01/practicing-well-crafted-design/</id>
@@ -178,19 +190,6 @@
         <published>2015-07-18T17:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;CQRS (Command and Query Responsibility Segregation) and Event Sourcing are concepts that are not new at all. Alongside NoSql, Functional Programming and Microservices, these revival concepts are getting traction because of their ability to deal with modern software challenges. Assuming that you&#39;re building a product that has a complex domain with a significant amount of users I can predict that if you follow more traditional architectural styles you will face the following problems how to scale and how to deal with complexity.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/07/14/learning-from-our-failures/</id>
-        <title>Learning from our failures</title>
-        <link href="http://codurance.com/2015/07/14/learning-from-our-failures/"/>
-        <published>2015-07-14T17:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;On my second day at Codurance, I managed to delete the repository with &lt;a href=&quot;http://codurance.com/&quot;&gt;Codurance&#39;s GitHub Pages&lt;/a&gt; on it. This made the website unavailable for the first time in a long time, and during best business hours.
-I passed by all the checks Github does to make sure you know what you&#39;re doing, thinking I was about to delete the fork I accidentally created. When I saw afterwards that the fork was still there, I immediately realized what I had done.&lt;/p&gt;
 
 </summary>
         
