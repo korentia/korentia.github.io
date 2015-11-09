@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-05T15:41:45+00:00</updated>
+    <updated>2015-11-09T14:44:25+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -29,7 +29,7 @@
         <link href="http://codurance.com/2015/11/01/practicing-well-crafted-design/"/>
         <published>2015-11-01T18:20:00+00:00</published>
         
-        <summary type="html">&lt;p&gt;Katas are great, but not enough. In the past year I’ve been trying to find ways to teach our craftsmen and apprentices how to design software. Although we could discuss good design principles, it was very difficult to find a way to practice them. Katas are great for learning TDD, micro design, working in baby steps, and a few techniques for dealing with legacy code but we need more. We would like to practice requirements gathering, domain modelling, and well-crafted code all together, with the same fast feedback loop we get when we do katas. The problem is that we need a far bigger problem with overlapping rules so that we can experience incremental software design. Inspired by a session we had a &lt;a href=&quot;https://www.socrates-conference.de/&quot;&gt;Socrates Germany 2015&lt;/a&gt;, we are evolving a deliberate practice session that is allowing us to achieve that.&lt;/p&gt;
+        <summary type="html">&lt;p&gt;Katas are great, but not enough. In the past year I’ve been trying to find ways to teach our craftsmen and apprentices how to design software. Although we could discuss good design principles, it was very difficult to find a way to practice them. Katas are great for learning TDD, micro design, working in baby steps, and a few techniques for dealing with legacy code but we need more. We would like to practice requirements gathering, domain modelling, and well-crafted code all together, with the same fast feedback loop we get when we do katas. The problem is that we need a far bigger problem with overlapping rules so that we can experience incremental software design. Inspired by a session we had a &lt;a href=&quot;https://www.socrates-conference.de/&quot;&gt;SoCraTes Germany 2015&lt;/a&gt;, we are evolving a deliberate practice session that allows us to achieve that.&lt;/p&gt;
 
 </summary>
         
