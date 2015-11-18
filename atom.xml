@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-09T14:44:25+00:00</updated>
+    <updated>2015-11-18T11:11:05+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/11/16/tips-for-a-friendly-open-source-experience/</id>
+        <title>Tips for a friendly open source experience</title>
+        <link href="http://codurance.com/2015/11/16/tips-for-a-friendly-open-source-experience/"/>
+        <published>2015-11-16T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Open source has moved from being an important actor in software development to being central for plenty of people, especially thanks to &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt;. Most of us are simple users of OSS (Open-source software) but being brave and taking a step forward and becoming a contributor, or even an owner, could help you massively in different ways:&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/11/02/time-to-go/</id>
@@ -178,18 +190,6 @@
         <published>2015-07-31T16:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;About a month ago, I started my apprenticeship at Codurance. I have learned a lot already in these few weeks, and I want to share some of it.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/07/18/cqrs-and-event-sourcing-for-dummies/</id>
-        <title>CQRS and Event Sourcing for dummies</title>
-        <link href="http://codurance.com/2015/07/18/cqrs-and-event-sourcing-for-dummies/"/>
-        <published>2015-07-18T17:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;CQRS (Command and Query Responsibility Segregation) and Event Sourcing are concepts that are not new at all. Alongside NoSql, Functional Programming and Microservices, these revival concepts are getting traction because of their ability to deal with modern software challenges. Assuming that you&#39;re building a product that has a complex domain with a significant amount of users I can predict that if you follow more traditional architectural styles you will face the following problems how to scale and how to deal with complexity.&lt;/p&gt;
 
 </summary>
         
