@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-20T09:54:22+00:00</updated>
+    <updated>2015-11-22T13:17:28+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/11/19/configuring-an-enterprise-app-sucks/</id>
+        <title>Configuring an enterprise app sucks</title>
+        <link href="http://codurance.com/2015/11/19/configuring-an-enterprise-app-sucks/"/>
+        <published>2015-11-19T09:00:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;There has been quite a lot of discussion over the last years about how configuration should be managed as code, be it software settings or infrastructure configuration:&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/11/16/tips-for-a-friendly-open-source-experience/</id>
@@ -178,18 +190,6 @@
         <published>2015-08-05T13:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;I started at &lt;a href=&quot;http://codurance.com/&quot;&gt;Codurance&lt;/a&gt; a month and a half ago as a C# developer. I was glad to have the opportunity to work in a place where people value your effort to be a better developer.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/07/31/a-month-of-apprenticeship/</id>
-        <title>My first month as an apprentice</title>
-        <link href="http://codurance.com/2015/07/31/a-month-of-apprenticeship/"/>
-        <published>2015-07-31T16:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;About a month ago, I started my apprenticeship at Codurance. I have learned a lot already in these few weeks, and I want to share some of it.&lt;/p&gt;
 
 </summary>
         
