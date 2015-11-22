@@ -3,13 +3,27 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-22T13:56:56+00:00</updated>
+    <updated>2015-11-22T14:11:30+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/11/22/changing-scalatra-and-sbt-directories/</id>
+        <title>Changing Scalatra and sbt default directories</title>
+        <link href="http://codurance.com/2015/11/22/changing-scalatra-and-sbt-directories/"/>
+        <published>2015-11-22T23:54:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Conventions are not always good. I recently started a new internal web project
+at Codurance and I decided to use Scala. As I&#39;m not a fan of big
+frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&lt;/a&gt; as a micro web framework.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/11/22/my-first-couple-of-months-at-codurance/</id>
@@ -178,18 +192,6 @@
         <published>2015-08-15T20:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;There are many metaphors to software development that make sense within different contexts but not others. When we talk about craftsmanship as a metaphor we are referring to the attitudes that the craftsman embodies in terms of dedication to customer satisfaction, quality and endless pursuit of excellence. Metaphors are a wonderful aid to comprehension where we can lift desired qualities from a well understood concept and use that to explain a new one. However, we must be careful on how we apply the metaphors.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/08/05/becoming-evergreen/</id>
-        <title>Becoming Evergreen</title>
-        <link href="http://codurance.com/2015/08/05/becoming-evergreen/"/>
-        <published>2015-08-05T20:00:00+00:00</published>
-        
-        <summary type="html">&lt;blockquote&gt;&lt;p&gt;“It is only when the cold season comes that we know the Pine and Cypress to be evergreens.” - &lt;em&gt;Chinese Proverb&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 
 </summary>
         
