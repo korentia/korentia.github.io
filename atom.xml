@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-22T13:17:28+00:00</updated>
+    <updated>2015-11-22T13:28:34+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/11/23/my-first-couple-of-months-at-codurance/</id>
+        <title>My first couple of months at Codurance</title>
+        <link href="http://codurance.com/2015/11/23/my-first-couple-of-months-at-codurance/"/>
+        <published>2015-11-23T09:00:00+00:00</published>
+        
+        <summary type="html">&lt;h3&gt;Some background&lt;/h3&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/11/19/configuring-an-enterprise-app-sucks/</id>
@@ -178,18 +190,6 @@
         <published>2015-08-05T20:00:00+00:00</published>
         
         <summary type="html">&lt;blockquote&gt;&lt;p&gt;“It is only when the cold season comes that we know the Pine and Cypress to be evergreens.” - &lt;em&gt;Chinese Proverb&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/08/05/Why-you-should-always-follow-your-dreams/</id>
-        <title>Why you should always follow your dreams!</title>
-        <link href="http://codurance.com/2015/08/05/Why-you-should-always-follow-your-dreams/"/>
-        <published>2015-08-05T13:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;I started at &lt;a href=&quot;http://codurance.com/&quot;&gt;Codurance&lt;/a&gt; a month and a half ago as a C# developer. I was glad to have the opportunity to work in a place where people value your effort to be a better developer.&lt;/p&gt;
 
 </summary>
         
