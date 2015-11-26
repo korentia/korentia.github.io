@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-26T11:38:15+00:00</updated>
+    <updated>2015-11-26T13:53:15+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/11/25/mouseless-programming/</id>
+        <title>Mouseless Programming</title>
+        <link href="http://codurance.com/2015/11/25/mouseless-programming/"/>
+        <published>2015-11-25T17:00:00+00:00</published>
+        
+        <summary type="html">&lt;h2&gt;Mouseless Programming&lt;/h2&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/11/22/changing-scalatra-and-sbt-directories/</id>
@@ -180,18 +192,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-08-17T09:35:00+00:00</published>
         
         <summary type="html">&lt;p&gt;While working on one of our internal tools, I decided to make a small comprise and not follow my own advice. We are building a mini CRM tool and the initial requirements were:&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/08/15/appropriate-rigour/</id>
-        <title>Appropriate Rigour</title>
-        <link href="http://codurance.com/2015/08/15/appropriate-rigour/"/>
-        <published>2015-08-15T20:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;There are many metaphors to software development that make sense within different contexts but not others. When we talk about craftsmanship as a metaphor we are referring to the attitudes that the craftsman embodies in terms of dedication to customer satisfaction, quality and endless pursuit of excellence. Metaphors are a wonderful aid to comprehension where we can lift desired qualities from a well understood concept and use that to explain a new one. However, we must be careful on how we apply the metaphors.&lt;/p&gt;
 
 </summary>
         
