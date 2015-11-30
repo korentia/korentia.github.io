@@ -209,7 +209,7 @@ In such cases, generating a wide array of inputs to test my program is appealing
 
 <pre><code class="` fs">         type ListProperties =     
              // Note: should fail     
-             static member reverseIsAsTheOriginal (xs:int[]) =          
+             static member reverseIsAsTheOriginal (xs:int list) =          
                  List.rev xs = xs
 </code></pre></li>
 <li><p>Add the following test to verify the property defined in the <code>ListProperties</code> type</p>
