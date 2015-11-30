@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-11-26T13:53:15+00:00</updated>
+    <updated>2015-11-30T11:03:09+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -18,6 +18,34 @@
         <published>2015-11-25T17:00:00+00:00</published>
         
         <summary type="html">&lt;h2&gt;Mouseless Programming&lt;/h2&gt;
+
+</summary>
+        
+    </entry>
+    
+    <entry>
+        <id>/2015/11/25/Property-based-testing-FsCheck-Resharper-NCrunch-Visual-Studio-2013/</id>
+        <title>Property based testing with FsCheck, Resharper and NCrunch in Visual Studio 2013</title>
+        <link href="http://codurance.com/2015/11/25/Property-based-testing-FsCheck-Resharper-NCrunch-Visual-Studio-2013/"/>
+        <published>2015-11-25T09:00:00+00:00</published>
+        
+        <summary type="html">&lt;h3&gt;Background&lt;/h3&gt;
+
+
+
+
+&lt;p&gt;Craftsmanship in software strives for high, predictable, repeatable and affordable quality. This is the reason why we care about design, code reviews and of course testing.
+Test Driven Development helps us create a flexible implementation that meets the expectations of our clients in terms of features, performance and quality. As professionals we have to master as many tools as possible to reach our goal of steadily providing value.&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;Property based testing&lt;/h3&gt;
+
+
+
+
+&lt;p&gt;The above is the reason why I am exploring Property Based Testing. I like to think about it as &lt;em&gt;&quot;Let the machine do the heavy lifting for you&quot;&lt;/em&gt; or as &lt;a href=&quot;http://vimeo.com/68383317&quot;&gt;John Huges&lt;/a&gt; says &lt;em&gt;&quot;Don&#39;t write tests, generate them&quot;&lt;/em&gt;.&lt;/p&gt;
 
 </summary>
         
@@ -180,18 +208,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-08-18T09:35:00+00:00</published>
         
         <summary type="html">&lt;p&gt;In the last couple of weeks I have spent my time doing katas to improve my Objective-C. As you may remember, I had an issue, &lt;a href=&quot;http://wp.me/p4i8Xl-7h&quot;&gt;that you can revisit here&lt;/a&gt;.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/08/17/increasing-complexity-one-entity-at-a-time/</id>
-        <title>Increasing complexity one entity at a time</title>
-        <link href="http://codurance.com/2015/08/17/increasing-complexity-one-entity-at-a-time/"/>
-        <published>2015-08-17T09:35:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;While working on one of our internal tools, I decided to make a small comprise and not follow my own advice. We are building a mini CRM tool and the initial requirements were:&lt;/p&gt;
 
 </summary>
         
