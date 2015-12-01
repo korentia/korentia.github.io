@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-12-01T11:24:12+00:00</updated>
+    <updated>2015-12-01T12:10:11+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -17,7 +17,7 @@
         <link href="http://codurance.com/2015/11/25/mouseless-programming/"/>
         <published>2015-11-25T17:00:00+00:00</published>
         
-        <summary type="html">&lt;h2&gt;Mouseless Programming&lt;/h2&gt;
+        <summary type="html">&lt;p&gt;To be honest, I used to be quite a power mouse user. Looking back and trying to figure out why I got addicted, it probably happened when Microsoft released Word 6.0 with its twenty-some toolbars with thirty-some buttons in each toolbar. I didn&#39;t remember many shortcuts, except &lt;code&gt;ctrl+c&lt;/code&gt;, &lt;code&gt;ctrl+v&lt;/code&gt;, and &lt;code&gt;ctrl+s&lt;/code&gt;, which I did learn and instantly became a full-stack Word guru in the eyes of toolbar-only users.&lt;/p&gt;
 
 </summary>
         
