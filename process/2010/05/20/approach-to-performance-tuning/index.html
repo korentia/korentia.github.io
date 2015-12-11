@@ -31,6 +31,7 @@
 <!-- CSS Theme -->
 <link rel="stylesheet" href="/assets/css/plugins.css">
 <link rel="stylesheet" href="/assets/css/app.css">
+<link rel="stylesheet" href="/assets/css/pages/blog.css">
 <link rel="stylesheet" href="/assets/css/theme-colors/orange.css" id="style_color">
 
 <!-- CSS Customization -->
@@ -98,7 +99,7 @@
 <!--=== End Header ===-->
 
 
-    <div class="breadcrumbs margin-bottom-10">
+    <div class="breadcrumbs">
         <div class="container">
             <h1 class="pull-left">Approach to Performance Tuning</h1>
             <ul class="pull-right breadcrumb">
@@ -158,24 +159,24 @@ Round Trip Delay and Throughput (number of concurrent requests).</p>
 <p>We can then devise some performance tests that exercise the application through typical usage scenarios and execute these tests to collate data that will provide the baseline for subsequent tests.  The data can be collated in the following areas:</p>
 
 <ol>
-<li> Response times and throughput for the over all application</li>
-<li> Response times and throughput for various parts of the platform</li>
-<li> Response times and throughput for various layers of the application</li>
-<li> Resource utilisation both at the platform level (e.g. thread profile, memory profile, socket connections  etc.) and system level (CPU utilisation, Disk IO, Network IO etc.)</li>
+<li>Response times and throughput for the over all application</li>
+<li>Response times and throughput for various parts of the platform</li>
+<li>Response times and throughput for various layers of the application</li>
+<li>Resource utilisation both at the platform level (e.g. thread profile, memory profile, socket connections  etc.) and system level (CPU utilisation, Disk IO, Network IO etc.)</li>
 </ol>
 
 
 <p>Once collated and represented in graphical form you can then start looking at indicators where bottlenecks may be occurring. Please note: that these are simply indicators of performance bottlenecks meant to highlight areas which will most likely require further investigation and tests (in isolation) to pin point the exact problem. Performance tuning is an iterative process with the following steps</p>
 
 <ol>
-<li> Perform Load Test</li>
-<li> Collate and Analyse Test Result Data</li>
-<li> Compare with Previous Test Result Data (if not the first iteration)</li>
-<li> Analyse impact of changes (if not first iteration)</li>
-<li> Check if improvements satisfy the performance requirements</li>
-<li> Analyse to identify bottlenecks</li>
-<li> Investigate and isolate the problem</li>
-<li> Perform remedial action to eliminate bottleneck</li>
+<li>Perform Load Test</li>
+<li>Collate and Analyse Test Result Data</li>
+<li>Compare with Previous Test Result Data (if not the first iteration)</li>
+<li>Analyse impact of changes (if not first iteration)</li>
+<li>Check if improvements satisfy the performance requirements</li>
+<li>Analyse to identify bottlenecks</li>
+<li>Investigate and isolate the problem</li>
+<li>Perform remedial action to eliminate bottleneck</li>
 </ol>
 
 
