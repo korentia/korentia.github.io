@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2015-12-14T09:07:16+00:00</updated>
+    <updated>2015-12-14T09:46:16+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2015/12/13/testing-multithreaded-code-in-java/</id>
+        <title>Testing multithreaded code in Java</title>
+        <link href="http://codurance.com/2015/12/13/testing-multithreaded-code-in-java/"/>
+        <published>2015-12-13T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Testing multithreaded code is a tough challenge. The first advice that you get when trying to test concurrency is to isolate your concurrent concerns in the code as much as possible. This a general design advice but in this case it&#39;s even more important. Make sure to first properly unit test the logic that is wrapped by the concurrent construct. Otherwise you might spend a long time trying to figure out a concurrency problem that turns out to be flawed business logic in the end.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/11/25/mouseless-programming/</id>
@@ -196,18 +208,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
 &lt;/blockquote&gt;
 
 
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/08/18/How-katas-can-help-you-learn/</id>
-        <title>How katas can help you learn</title>
-        <link href="http://codurance.com/2015/08/18/How-katas-can-help-you-learn/"/>
-        <published>2015-08-18T09:35:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;In the last couple of weeks I have spent my time doing katas to improve my Objective-C. As you may remember, I had an issue, &lt;a href=&quot;http://wp.me/p4i8Xl-7h&quot;&gt;that you can revisit here&lt;/a&gt;.&lt;/p&gt;
 
 </summary>
         
