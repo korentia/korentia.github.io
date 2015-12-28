@@ -25,17 +25,18 @@ As a result, whenever we tried to improve our design or put a new feature in, we
 ## A convenient excuse
 Often, we would justify why we needed those tests with "rational" points:
 
-- "the only way to test workflows with the framework we are using is to run them against all real dependencies" (not true!)
-- "it is too complicated to have an in-memory DB alongside the real one" (maybe still worth it?)
-- "we wouldn't have caught that bug without those tests!" (maybe there is something wrong with our design instead?)
+- "the only way to test workflows with the framework we are using is to run them against all real dependencies" (this wasn't actually true!)
+- "it is too complicated to have an in-memory DB alongside the real one" (maybe it still would have been worth it?)
+- "we wouldn't have caught that bug without those tests!" (maybe there was something wrong with our design?)
 
-This list could continue for a while - fact of the matter is - we are not thinking systematically about what tests we actually need. We are not making informed decisions about whether to introduce a new, expensive test. We do not invest enough time to build a test suite for our business logic that is independent of external services or the database.
+This list could continue for a while. The fact of the matter is - we were not thinking systematically about what tests we actually need. We were not making informed decisions about whether to introduce a new, expensive test. We did not invest enough time to build a test suite for our business logic that was independent of external services or the database.
 
 ## An underlying assumption
 Even having a discussion in your team about scopes of tests might prove difficult. At [SoCraTes Germany](https://www.socrates-conference.de/), [Thomas Bunzendorf]() did an experiment: Let everyone draw the testing pyramid as they see it. The results varied and we had different ideas about what terms like "integration test" or "acceptance test" meant. Of course, you can try to go by definitions found in books, but in the end the terms do not matter as much as agreeing in your team on them.
 
 ## A clarification
 In this blogpost, I talk about tests that support the team and can be automated (see Lisa Crispin's [Testing Quadrants]() below). Other tests are out of scope for this post.
+<img src="/assets/img/custom/blog/2015-12-28-rethinking-the-testing-pyramid/unit-pyramid.png"/>
 
 ## An ideal to strive for
 Ideally, I'd have a testing pyramid structured like this:
