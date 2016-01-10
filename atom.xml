@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-01-10T13:59:24+00:00</updated>
+    <updated>2016-01-10T14:53:38+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -17,7 +17,7 @@
         <link href="http://codurance.com/2016/01/10/clojure-vim-environment/"/>
         <published>2016-01-10T00:20:00+00:00</published>
         
-        <summary type="html">&lt;p&gt;The &lt;a href=&quot;https://cursive-ide.com/&quot;&gt;Cursive&lt;/a&gt; plugin for Clojure is now out of its beta testing phase. I have been using it throughout its beta program and, I must say, it is pretty good. Even though it does not have the refactoring power of the IntelliJ for Java, but then Clojure is dynamic and asking for that kind of power is asking for the impossible.&lt;/p&gt;
+        <summary type="html">&lt;p&gt;The &lt;a href=&quot;https://cursive-ide.com/&quot;&gt;Cursive&lt;/a&gt; plugin for Clojure is now out of its beta testing phase. I have been using it throughout its beta program and, I must say, it is pretty good. Sure, the refactoring capabilities are not quite on a par with those of IntelliJ for Java, but then Clojure is dynamic and asking for that kind of power is asking for the impossible.&lt;/p&gt;
 
 </summary>
         
