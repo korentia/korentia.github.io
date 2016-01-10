@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-01-04T18:56:45+00:00</updated>
+    <updated>2016-01-10T13:59:24+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/01/10/clojure-vim-environment/</id>
+        <title>Clojure VIM Environment</title>
+        <link href="http://codurance.com/2016/01/10/clojure-vim-environment/"/>
+        <published>2016-01-10T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;The &lt;a href=&quot;https://cursive-ide.com/&quot;&gt;Cursive&lt;/a&gt; plugin for Clojure is now out of its beta testing phase. I have been using it throughout its beta program and, I must say, it is pretty good. Even though it does not have the refactoring power of the IntelliJ for Java, but then Clojure is dynamic and asking for that kind of power is asking for the impossible.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2015/12/13/testing-multithreaded-code-in-java/</id>
@@ -192,22 +204,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-09-10T16:36:00+00:00</published>
         
         <summary type="html">&lt;blockquote&gt;&lt;p&gt;Thinking of code as a beautiful work of art is a mistake. But at the same time we need to start seeing coding as a genuine skill that deserves professional recognition, says leading Software Craftsmanship advocate and JAX London speaker Sandro Mancuso.&lt;/p&gt;&lt;/blockquote&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/08/26/My-first-walking-skeleton/</id>
-        <title>My first walking skeleton</title>
-        <link href="http://codurance.com/2015/08/26/My-first-walking-skeleton/"/>
-        <published>2015-08-26T09:00:00+00:00</published>
-        
-        <summary type="html">&lt;blockquote&gt;A Walking Skeleton is a tiny implementation of the system that performs a small end-to-end function. It need not use the final architecture, but it should link together the main architectural components. The architecture and the functionality can then evolve in parallel.
- &lt;footer&gt; &lt;cite&gt;&lt;a href=&quot;http://alistair.cockburn.us/index.php/Walking_skeleton&quot;&gt;Alistair Cockburn&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-
 
 </summary>
         
