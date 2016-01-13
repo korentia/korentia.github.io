@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-01-13T18:07:18+00:00</updated>
+    <updated>2016-01-13T19:13:51+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -49,7 +49,7 @@
     
     <entry>
         <id>/2015/11/25/Property-based-testing-FsCheck-Resharper-NCrunch-Visual-Studio-2013/</id>
-        <title>Property based testing with FsCheck, Resharper and NCrunch in Visual Studio 2013</title>
+        <title>Property based testing</title>
         <link href="http://codurance.com/2015/11/25/Property-based-testing-FsCheck-Resharper-NCrunch-Visual-Studio-2013/"/>
         <published>2015-11-25T09:00:00+00:00</published>
         
