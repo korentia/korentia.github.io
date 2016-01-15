@@ -3,13 +3,30 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-01-14T17:42:38+00:00</updated>
+    <updated>2016-01-15T21:12:30+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/01/15/GitHubAnimator/</id>
+        <title>GitHubAnimator</title>
+        <link href="http://codurance.com/2016/01/15/GitHubAnimator/"/>
+        <published>2016-01-15T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;h3&gt;The Beginning&lt;/h3&gt;
+
+
+
+
+&lt;p&gt;Inspired by my friend &lt;a href=&quot;https://twitter.com/SamirTalwar&quot;&gt;@SamirTalwar&lt;/a&gt; and the initiative he set upon himself to &lt;a href=&quot;http://monospacedmonologues.com/post/136667358499/automating-the-world&quot;&gt;automate the world&lt;/a&gt; I picked up on an idea I had many months ago. Automating the generation of presentations using GitHub commits.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/01/10/clojure-vim-environment/</id>
@@ -192,18 +209,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-09-14T12:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;Recently, I decided to include Swagger documentation to our time sheet application. Although Swagger provides tools to help clients integrate with your REST API the most powerful feature, in my opinion, is that it acts as &quot;living documentation&quot; for the API. Adding Swagger to my the application had a couple of pleasant side-effects:&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/09/10/interview-for-jaxenter/</id>
-        <title>Interview with Sandro Mancuso - Software Craftsmanship</title>
-        <link href="http://codurance.com/2015/09/10/interview-for-jaxenter/"/>
-        <published>2015-09-10T16:36:00+00:00</published>
-        
-        <summary type="html">&lt;blockquote&gt;&lt;p&gt;Thinking of code as a beautiful work of art is a mistake. But at the same time we need to start seeing coding as a genuine skill that deserves professional recognition, says leading Software Craftsmanship advocate and JAX London speaker Sandro Mancuso.&lt;/p&gt;&lt;/blockquote&gt;
 
 </summary>
         
