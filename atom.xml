@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-01-29T16:53:01+00:00</updated>
+    <updated>2016-01-31T11:58:14+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/01/31/isolating-integration-tests-with-the-spring-framework/</id>
+        <title>Isolating integration tests and mocking dependencies with Spring Boot</title>
+        <link href="http://codurance.com/2016/01/31/isolating-integration-tests-with-the-spring-framework/"/>
+        <published>2016-01-31T00:00:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Integration tests can be slow and unreliable because they depend on too many components in the system. Up to a certain point, this is unavoidable: integration tests are here to validate how each part of your system plays with other internal or external components.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/01/15/premature-microservices/</id>
@@ -197,18 +209,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-10-22T00:20:00+00:00</published>
         
         <summary type="html">&lt;p&gt;It seems that a new paradigm is coming. Facebook and Netflix have come up with different implementations for that idea. Some people are calling it &lt;a href=&quot;http://www.infoq.com/presentations/domain-driven-architecture&quot;&gt;Demand-Driven Architecture&lt;/a&gt;, but before I show you some solutions, let&#39;s go over some history to understand the problem. I will use the example that Netflix provides, but I think that most of us will find the patterns familiar.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/09/29/codereview/</id>
-        <title>Code review: Why are we doing it?</title>
-        <link href="http://codurance.com/2015/09/29/codereview/"/>
-        <published>2015-09-29T00:20:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Developers across many organisations adopted code reviews as one of their core practices. Although that sounds like a very reasonable thing to do, over time the goal that led to the adoption of the practice is forgotten and the only thing left is the mindless application of the practice itself.&lt;/p&gt;
 
 </summary>
         
