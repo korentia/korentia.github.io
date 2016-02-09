@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-02-09T10:45:49+00:00</updated>
+    <updated>2016-02-09T11:11:30+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -18,6 +18,18 @@
         <published>2016-02-08T00:20:00+00:00</published>
         
         <summary type="html">&lt;p&gt;I&#39;m spending my time between Mac OS and Windows, and when I go back to my Windows machine I always feel the lack of my Mac command prompt.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
+    
+    <entry>
+        <id>/2016/02/07/coupling-in-distributed-systems/</id>
+        <title>Coupling in distributed systems</title>
+        <link href="http://codurance.com/2016/02/07/coupling-in-distributed-systems/"/>
+        <published>2016-02-07T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Coupling and cohesion are key quality indicators. We strive for systems highly cohesive and loosely coupled, but high doesn&#39;t mean pure. The same goes with functional programming, we aim for isolating and reducing side effects, but we need them unless we want a useless system. It&#39;s good to modularise our systems, so whenever those modules need to talk to each other they&#39;ll effectively couple themselves. Our work is to create cohesive modules and minimising coupling as much as possible.&lt;/p&gt;
 
 </summary>
         
@@ -197,18 +209,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-11-01T18:20:00+00:00</published>
         
         <summary type="html">&lt;p&gt;Katas are great, but not enough. In the past year I’ve been trying to find ways to teach our craftsmen and apprentices how to design software. Although we could discuss good design principles, it was very difficult to find a way to practice them. Katas are great for learning TDD, micro design, working in baby steps, and a few techniques for dealing with legacy code but we need more. We would like to practice requirements gathering, domain modelling, and well-crafted code all together, with the same fast feedback loop we get when we do katas. The problem is that we need a far bigger problem with overlapping rules so that we can experience incremental software design. Inspired by a session we had a &lt;a href=&quot;https://www.socrates-conference.de/&quot;&gt;SoCraTes Germany 2015&lt;/a&gt;, we are evolving a deliberate practice session that allows us to achieve that.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/10/26/Talk-to-the-business/</id>
-        <title>Talk to the business</title>
-        <link href="http://codurance.com/2015/10/26/Talk-to-the-business/"/>
-        <published>2015-10-26T09:35:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Almost a month ago, I did this amazing course at &lt;a href=&quot;https://skillsmatter.com/&quot;&gt;SkillsMatter&lt;/a&gt;: &lt;a href=&quot;https://skillsmatter.com/courses/202-domain-model&quot;&gt;&quot;Eric Evans Domain Driven Design Immersion Workshop&quot;&lt;/a&gt;. The course was very intensive and provided me with the opportunity to reinforce a lot of concepts I already knew as well as learn a few more.&lt;/p&gt;
 
 </summary>
         
