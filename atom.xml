@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-03-02T00:38:52+00:00</updated>
+    <updated>2016-03-02T08:57:14+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -17,7 +17,7 @@
         <link href="http://codurance.com/2016/03/01/Docker-meets-Continuous-Deployment/"/>
         <published>2016-03-01T00:00:00+00:00</published>
         
-        <summary type="html">&lt;p&gt;About one year ago I had my first contact with Docker. This new kid on the block promised to relieve our poor computers from installation of all tools, languages, dependencies and operating systems. Isolated run environments emerged on developers computers.&lt;/p&gt;
+        <summary type="html">&lt;p&gt;About one year ago I had my first contact with Docker. This new kid on the block promised to relieve our poor computers from installation of all tools, languages, dependencies and operating systems. Isolated run environments emerged on developers&#39; computers.&lt;/p&gt;
 
 </summary>
         
