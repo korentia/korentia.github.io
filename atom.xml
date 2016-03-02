@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-02-28T01:01:19+00:00</updated>
+    <updated>2016-03-02T00:38:52+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/03/01/Docker-meets-Continuous-Deployment/</id>
+        <title>Docker meets Continuous Deployment</title>
+        <link href="http://codurance.com/2016/03/01/Docker-meets-Continuous-Deployment/"/>
+        <published>2016-03-01T00:00:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;About one year ago I had my first contact with Docker. This new kid on the block promised to relieve our poor computers from installation of all tools, languages, dependencies and operating systems. Isolated run environments emerged on developers computers.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/02/22/open-financials/</id>
@@ -197,18 +209,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-11-16T00:20:00+00:00</published>
         
         <summary type="html">&lt;p&gt;Open source has moved from being an important actor in software development to being central for plenty of people, especially thanks to &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt;. Most of us are simple users of OSS (Open-source software) but being brave and taking a step forward and becoming a contributor, or even an owner, could help you massively in different ways:&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/11/02/time-to-go/</id>
-        <title>Time To Go</title>
-        <link href="http://codurance.com/2015/11/02/time-to-go/"/>
-        <published>2015-11-02T09:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;I&#39;m writing that blog post I never thought I&#39;d write.&lt;/p&gt;
 
 </summary>
         
