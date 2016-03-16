@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-03-16T01:53:18+00:00</updated>
+    <updated>2016-03-16T16:44:33+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/03/16/Containers-all-the-way-through/</id>
+        <title>Containers all the way through...</title>
+        <link href="http://codurance.com/2016/03/16/Containers-all-the-way-through/"/>
+        <published>2016-03-16T00:00:00+00:00</published>
+        
+        <summary type="html">&lt;h3&gt;Introduction&lt;/h3&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/03/03/cohesion-cornerstone-software-design/</id>
@@ -197,18 +209,6 @@ frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&
         <published>2015-11-22T09:00:00+00:00</published>
         
         <summary type="html">&lt;h3&gt;Some background&lt;/h3&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/11/19/configuring-an-enterprise-app-sucks/</id>
-        <title>Configuring an enterprise app sucks</title>
-        <link href="http://codurance.com/2015/11/19/configuring-an-enterprise-app-sucks/"/>
-        <published>2015-11-19T09:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;There has been quite a lot of discussion over the last years about how configuration should be managed as code, be it software settings or infrastructure configuration:&lt;/p&gt;
 
 </summary>
         
