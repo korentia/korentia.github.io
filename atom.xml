@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-03-16T21:37:12+00:00</updated>
+    <updated>2016-03-18T09:20:24+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/03/17/code-smells-part-I/</id>
+        <title>Code Smells – Part I</title>
+        <link href="http://codurance.com/2016/03/17/code-smells-part-I/"/>
+        <published>2016-03-17T12:10:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Last weekend I was at the &lt;a href=&quot;https://twitter.com/hashtag/socracan16&quot;&gt;SoCraTes Canaries&lt;/a&gt; and I gave my first talk ever about code smells. Oh boy! How nervous was I! But now that, that has passed I was wondering what I should do with all information I gathered. And then I thought, maybe it&#39;s a good idea to put it all in a nice blog post.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/03/16/Containers-all-the-way-through/</id>
@@ -197,18 +209,6 @@ Test Driven Development helps us create a flexible implementation that meets the
         <summary type="html">&lt;p&gt;Conventions are not always good. I recently started a new internal web project
 at Codurance and I decided to use Scala. As I&#39;m not a fan of big
 frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&lt;/a&gt; as a micro web framework.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/11/22/my-first-couple-of-months-at-codurance/</id>
-        <title>My first couple of months at Codurance</title>
-        <link href="http://codurance.com/2015/11/22/my-first-couple-of-months-at-codurance/"/>
-        <published>2015-11-22T09:00:00+00:00</published>
-        
-        <summary type="html">&lt;h3&gt;Some background&lt;/h3&gt;
 
 </summary>
         
