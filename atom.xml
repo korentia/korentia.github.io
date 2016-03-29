@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-03-26T22:13:35+00:00</updated>
+    <updated>2016-03-29T14:24:25+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/03/28/Mutual-Problems/</id>
+        <title>Mutual Problems</title>
+        <link href="http://codurance.com/2016/03/28/Mutual-Problems/"/>
+        <published>2016-03-28T00:00:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;The HTTPS protocol is the well-established standard for securing our connections. Understanding how this protocol works is not a problem and the corresponding &lt;a href=&quot;https://tools.ietf.org/html/rfc2818&quot;&gt;RFC document&lt;/a&gt; is available since 2000.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/03/17/code-smells-part-I/</id>
@@ -195,20 +207,6 @@ Test Driven Development helps us create a flexible implementation that meets the
 
 
 &lt;p&gt;The above is the reason why I am exploring Property Based Testing. I like to think about it as &lt;em&gt;&quot;Let the machine do the heavy lifting for you&quot;&lt;/em&gt; or as &lt;a href=&quot;http://vimeo.com/68383317&quot;&gt;John Huges&lt;/a&gt; says &lt;em&gt;&quot;Don&#39;t write tests, generate them&quot;&lt;/em&gt;.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/11/22/changing-scalatra-and-sbt-directories/</id>
-        <title>Changing Scalatra and sbt default directories</title>
-        <link href="http://codurance.com/2015/11/22/changing-scalatra-and-sbt-directories/"/>
-        <published>2015-11-22T23:54:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Conventions are not always good. I recently started a new internal web project
-at Codurance and I decided to use Scala. As I&#39;m not a fan of big
-frameworks, I chose &lt;a href=&quot;http://www.scalatra.org/&quot;&gt;Scalatra&lt;/a&gt; as a micro web framework.&lt;/p&gt;
 
 </summary>
         
