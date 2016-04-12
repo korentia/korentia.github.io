@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-04-05T16:09:53+00:00</updated>
+    <updated>2016-04-12T00:00:54+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/04/12/we-did-it-wrong-but-not-in-vain/</id>
+        <title>We did it wrong, but not all was in vain</title>
+        <link href="http://codurance.com/2016/04/12/we-did-it-wrong-but-not-in-vain/"/>
+        <published>2016-04-12T00:24:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Yes, there was over engineering. Loads of it. Back in the mid 90s, when I started my career as a developer, the goal was to become an architect. No serious developer would dare writing a single line of code before selecting our preferred design patterns—we would then decide how the business requirements would fit into them. Yes, we would first come up with our architecture, then our macro design (layers) and domain model (including UML diagrams), and then we would think about the business requirements and detailed use cases. Yes, user stories were not really a thing back then. We had long use cases with a basic flow and many alternative flows.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/03/28/Mutual-Problems/</id>
@@ -179,34 +191,6 @@
         <published>2015-11-25T17:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;To be honest, I used to be quite a power mouse user. Looking back and trying to figure out why I got addicted, it probably happened when Microsoft released Word 6.0 with its twenty-some toolbars with thirty-some buttons in each toolbar. I didn&#39;t remember many shortcuts, except &lt;code&gt;ctrl+c&lt;/code&gt;, &lt;code&gt;ctrl+v&lt;/code&gt;, and &lt;code&gt;ctrl+s&lt;/code&gt;, which I did learn and instantly became a full-stack Word guru in the eyes of toolbar-only users.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/11/25/Property-based-testing-FsCheck-Resharper-NCrunch-Visual-Studio-2013/</id>
-        <title>Property based testing</title>
-        <link href="http://codurance.com/2015/11/25/Property-based-testing-FsCheck-Resharper-NCrunch-Visual-Studio-2013/"/>
-        <published>2015-11-25T09:00:00+00:00</published>
-        
-        <summary type="html">&lt;h3&gt;Background&lt;/h3&gt;
-
-
-
-
-&lt;p&gt;Craftsmanship in software strives for high, predictable, repeatable and affordable quality. This is the reason why we care about design, code reviews and of course testing.
-Test Driven Development helps us create a flexible implementation that meets the expectations of our clients in terms of features, performance and quality. As professionals we have to master as many tools as possible to reach our goal of steadily providing value.&lt;/p&gt;
-
-
-
-
-&lt;h3&gt;Property based testing&lt;/h3&gt;
-
-
-
-
-&lt;p&gt;The above is the reason why I am exploring Property Based Testing. I like to think about it as &lt;em&gt;&quot;Let the machine do the heavy lifting for you&quot;&lt;/em&gt; or as &lt;a href=&quot;http://vimeo.com/68383317&quot;&gt;John Huges&lt;/a&gt; says &lt;em&gt;&quot;Don&#39;t write tests, generate them&quot;&lt;/em&gt;.&lt;/p&gt;
 
 </summary>
         
