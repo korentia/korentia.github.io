@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-04-18T09:23:34+00:00</updated>
+    <updated>2016-04-18T09:42:49+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/04/17/sorted-pagination-in-cassandra/</id>
+        <title>Sorted pagination in Cassandra</title>
+        <link href="http://codurance.com/2016/04/17/sorted-pagination-in-cassandra/"/>
+        <published>2016-04-17T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;Cassandra is a fantastic database for different use cases. There are different situations when you need to twist Cassandra a little and studying one of those could be a helpful exercise to better understand what is Cassandra about. Databases are complex beasts, approaching them with the right level of abstraction is vital. Their final goal is not storing data per se, but make that data accessible. Those read patterns will define which database is the best tool for the job.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/04/12/we-did-it-wrong-but-not-in-vain/</id>
@@ -179,18 +191,6 @@
         <published>2015-12-13T00:20:00+00:00</published>
         
         <summary type="html">&lt;p&gt;Testing multithreaded code is a tough challenge. The first advice that you get when trying to test concurrency is to isolate your concurrent concerns in the code as much as possible. This a general design advice but in this case it&#39;s even more important. Make sure to first properly unit test the logic that is wrapped by the concurrent construct. Otherwise you might spend a long time trying to figure out a concurrency problem that turns out to be flawed business logic in the end.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2015/11/25/mouseless-programming/</id>
-        <title>Mouseless Programming</title>
-        <link href="http://codurance.com/2015/11/25/mouseless-programming/"/>
-        <published>2015-11-25T17:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;To be honest, I used to be quite a power mouse user. Looking back and trying to figure out why I got addicted, it probably happened when Microsoft released Word 6.0 with its twenty-some toolbars with thirty-some buttons in each toolbar. I didn&#39;t remember many shortcuts, except &lt;code&gt;ctrl+c&lt;/code&gt;, &lt;code&gt;ctrl+v&lt;/code&gt;, and &lt;code&gt;ctrl+s&lt;/code&gt;, which I did learn and instantly became a full-stack Word guru in the eyes of toolbar-only users.&lt;/p&gt;
 
 </summary>
         
