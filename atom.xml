@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-03T16:33:05+00:00</updated>
+    <updated>2016-05-04T14:51:59+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -17,7 +17,7 @@
         <link href="http://codurance.com/2016/04/28/async-systems-with-sync-clients/"/>
         <published>2016-04-28T00:20:00+00:00</published>
         
-        <summary type="html">&lt;p&gt;As the &lt;a href=&quot;http://www.reactivemanifesto.org/&quot;&gt;Reactive Manifesto&lt;/a&gt; says Reactive systems are: Responsive, Resilient, Elastic and Message Driven. The last principle often goes together with non-blocking async protocols. This style of communication &quot;allows recipients to only consume resources while active, leading to less system overhead&quot;. This fits perfectly with new demands of efficiency derived from the elastic model of cloud providers. However not every system is async and integrating an async system with a sync client could be tricky.&lt;/p&gt;
+        <summary type="html">&lt;p&gt;As the &lt;a href=&quot;http://www.reactivemanifesto.org/&quot;&gt;Reactive Manifesto&lt;/a&gt; says Reactive systems are:&lt;/p&gt;
 
 </summary>
         
