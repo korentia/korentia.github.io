@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-06T15:25:25+00:00</updated>
+    <updated>2016-05-06T15:35:54+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -17,7 +17,7 @@
         <link href="http://codurance.com/2016/05/06/language-feature-envy/"/>
         <published>2016-05-06T00:20:00+00:00</published>
         
-        <summary type="html">&lt;h1&gt;Language feature envy&lt;/h1&gt;
+        <summary type="html">&lt;p&gt;In my day job I mainly write C# code. On my own I like to try other languages like Swift, F#, Clojure, Objective C or Java. I learn a lot from writing code in different languages. When I go back to C# I often miss some of the features C# does not have. By far what I miss the most is Java/Swift enums. It happens quite frequently that I need to express a few finite number of instances of a type. The &lt;a href=&quot;http://snipplr.com/view/42422/the-planet-enum-example/&quot;&gt;Java planets&lt;/a&gt; example illustrates this quite effectively.&lt;/p&gt;
 
 </summary>
         
