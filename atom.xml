@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-06T17:53:05+00:00</updated>
+    <updated>2016-05-07T11:16:58+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/05/06/code-smells-part-II/</id>
+        <title>Code Smells – Part II</title>
+        <link href="http://codurance.com/2016/05/06/code-smells-part-II/"/>
+        <published>2016-05-06T12:10:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;In the last post, &lt;a href=&quot;http://www.ananogal.com/blog/code-smells-part-one&quot;&gt;Code Smells - Part I&lt;/a&gt;,  I talked about the bloaters: they are code smells that can be identified as Long Methods, Large Classes, Primitive Obsessions, Long Parameter List and Data Clumps. In this one, I would like to dig into the &lt;strong&gt;Object-Orientation Abusers&lt;/strong&gt; and the &lt;strong&gt;Change Preventers&lt;/strong&gt;.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/05/06/language-feature-envy/</id>
@@ -174,18 +186,6 @@
         <published>2016-01-31T00:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;Integration tests can be slow and unreliable because they depend on too many components in the system. Up to a certain point, this is unavoidable: integration tests are here to validate how each part of your system plays with other internal or external components.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2016/01/15/premature-microservices/</id>
-        <title>Premature Microservices</title>
-        <link href="http://codurance.com/2016/01/15/premature-microservices/"/>
-        <published>2016-01-15T00:20:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Building your app from the very start as microservices is not a great idea! Their deployment is complex - regardless of how good your microservices infra is. They create boundaries in your application that resist change. Software applications are complex systems and complex systems are grown not designed. In order to grow an efficient system - we must allow it to grow in directions that it needs to. Boundaries designed at the start will stunt that growth at certain axis when direction of growth is at its most unpredictable.&lt;/p&gt;
 
 </summary>
         
