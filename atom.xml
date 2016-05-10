@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-07T20:23:41+00:00</updated>
+    <updated>2016-05-10T14:38:35+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -101,7 +101,7 @@
         <link href="http://codurance.com/2016/03/17/code-smells-part-I/"/>
         <published>2016-03-17T12:10:00+00:00</published>
         
-        <summary type="html">&lt;p&gt;Last weekend I was at the &lt;a href=&quot;https://twitter.com/hashtag/socracan16&quot;&gt;SoCraTes Canaries&lt;/a&gt; and I gave my first talk ever about code smells. Oh boy! How nervous was I! But now that, that has passed I was wondering what I should do with all information I gathered. And then I thought, maybe it&#39;s a good idea to put it all in a nice blog post.&lt;/p&gt;
+        <summary type="html">&lt;p&gt;Last weekend I was at &lt;a href=&quot;https://twitter.com/hashtag/socracan16&quot;&gt;SoCraTes Canaries&lt;/a&gt; and I gave my first talk ever about code smells. Oh boy! How nervous was I! But now that has passed, I was wondering what I should do with all information I gathered. And then I thought, maybe it&#39;s a good idea to put it all in a nice blog post.&lt;/p&gt;
 
 </summary>
         
