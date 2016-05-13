@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-13T15:56:14+00:00</updated>
+    <updated>2016-05-13T16:39:52+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/05/13/initiative-circles/</id>
+        <title>Initiative Circles</title>
+        <link href="http://codurance.com/2016/05/13/initiative-circles/"/>
+        <published>2016-05-13T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;We have been trying to encourage decentralised decision making at Codurance. To that effect, everyone within the company understands that they have the power to make any decision they need to make so long as they seek advise from the people that may be impacted. In order to help people make effective decisions, all company information is available to everyone in the company, including financials and salaries. This is all well and good, but in practice people do not simply go and start making informed strategic decisions just because they have the power to do so. For one, they are busy with their day jobs and simply do not have much time to look at the company holistically. Even if they have some wonderful ideas, they may not have the inclination or confidence to kick-off the initiative.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/05/11/aws-lambdas/</id>
@@ -174,18 +186,6 @@
         <published>2016-02-22T14:54:00+00:00</published>
         
         <summary type="html">&lt;p&gt;Early this month we took a big step towards full transparency and decided to open the financials to the whole company. Our decision is aligned to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Open-book_management&quot;&gt;open-book management&lt;/a&gt; concept.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2016/02/08/command-prompt-envy/</id>
-        <title>Command Prompt Envy</title>
-        <link href="http://codurance.com/2016/02/08/command-prompt-envy/"/>
-        <published>2016-02-08T00:20:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;I&#39;m spending my time between Mac OS and Windows, and when I go back to my Windows machine I always feel the lack of my Mac command prompt.&lt;/p&gt;
 
 </summary>
         
