@@ -3,7 +3,7 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-12T21:39:26+00:00</updated>
+    <updated>2016-05-13T14:11:37+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
@@ -18,6 +18,18 @@
         <published>2016-05-11T00:20:00+00:00</published>
         
         <summary type="html">&lt;p&gt;AWS Lambda is a compute service from Amazon. It makes deployment and provisioning very simple and fits very well with microservices based architecture. You can find out more about AWS Lambda &lt;a href=&quot;http://docs.aws.amazon.com/lambda/latest/dg/welcome.html&quot;&gt;here&lt;/a&gt;. Currently supported platforms are JVM, Node JS and Python.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
+    
+    <entry>
+        <id>/2016/05/10/finite-state-machines-with-akka/</id>
+        <title>Finite state machines with Akka</title>
+        <link href="http://codurance.com/2016/05/10/finite-state-machines-with-akka/"/>
+        <published>2016-05-10T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;As you could remember from previous posts, &lt;a href=&quot;http://codurance.com/2016/04/28/async-systems-with-sync-clients/&quot;&gt;Part 1&lt;/a&gt; and   &lt;a href=&quot;http://codurance.com/2016/04/30/akka-basics/&quot;&gt;Part 2&lt;/a&gt;, we&#39;re implementing a solution that integrates a sync client with an async system. Today we&#39;ll see how to keep track of the async operations so we can provide a sync response to the client. Let&#39;s start with the architectural diagram.&lt;/p&gt;
 
 </summary>
         
@@ -174,18 +186,6 @@
         <published>2016-02-08T00:20:00+00:00</published>
         
         <summary type="html">&lt;p&gt;I&#39;m spending my time between Mac OS and Windows, and when I go back to my Windows machine I always feel the lack of my Mac command prompt.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2016/02/07/coupling-in-distributed-systems/</id>
-        <title>Coupling in distributed systems</title>
-        <link href="http://codurance.com/2016/02/07/coupling-in-distributed-systems/"/>
-        <published>2016-02-07T00:20:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Coupling and cohesion are key quality indicators. We strive for systems highly cohesive and loosely coupled, but high doesn&#39;t mean pure. The same goes with functional programming, we aim for isolating and reducing side effects, but we need them unless we want a useless system. It&#39;s good to modularise our systems, so whenever those modules need to talk to each other they&#39;ll effectively couple themselves. Our work is to create cohesive modules and minimising coupling as much as possible.&lt;/p&gt;
 
 </summary>
         
