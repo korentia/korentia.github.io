@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-13T16:39:52+00:00</updated>
+    <updated>2016-05-14T10:02:35+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/05/14/retrospective-park/</id>
+        <title>A Retrospective in the Park</title>
+        <link href="http://codurance.com/2016/05/14/retrospective-park/"/>
+        <published>2016-05-14T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;The other day, I facilitated a sprint retrospective in the park. The sun was shining, and we had all been working hard to complete our backlog, so it felt like a nice reward for everyone’s efforts. Holding a retrospective outdoors can also give it an energy and sense of enthusiasm that is harder to find in a small room.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/05/13/initiative-circles/</id>
@@ -174,18 +186,6 @@
         <published>2016-03-01T00:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;About one year ago I had my first contact with Docker. This new kid on the block promised to relieve our poor computers from installation of all tools, languages, dependencies and operating systems. Isolated run environments emerged on developers&#39; computers.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2016/02/22/open-financials/</id>
-        <title>Open Financials</title>
-        <link href="http://codurance.com/2016/02/22/open-financials/"/>
-        <published>2016-02-22T14:54:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Early this month we took a big step towards full transparency and decided to open the financials to the whole company. Our decision is aligned to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Open-book_management&quot;&gt;open-book management&lt;/a&gt; concept.&lt;/p&gt;
 
 </summary>
         
