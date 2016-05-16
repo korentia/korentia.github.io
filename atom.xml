@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-16T04:54:02+00:00</updated>
+    <updated>2016-05-16T16:04:01+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/05/16/publish-subscribe-model-in-kafka/</id>
+        <title>Publish-subscribe model in Kafka</title>
+        <link href="http://codurance.com/2016/05/16/publish-subscribe-model-in-kafka/"/>
+        <published>2016-05-16T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;This is the fourth post in the series about integrating sync clients with async systems (&lt;a href=&quot;http://codurance.com/2016/04/28/async-systems-with-sync-clients/&quot;&gt;1, &lt;/a&gt;&lt;a href=&quot;http://codurance.com/2016/04/30/akka-basics/&quot;&gt;2, &lt;/a&gt;&lt;a href=&quot;http://codurance.com/2016/05/10/finite-state-machines-with-akka/&quot;&gt;3&lt;/a&gt;). Here we&#39;ll try to understand how &lt;a href=&quot;http://kafka.apache.org/&quot;&gt;Kafka&lt;/a&gt; works in order to correctly leverage its publish-subscribe implementation.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/05/16/bowling-kata-in-clojure-fsharp-scala/</id>
@@ -174,18 +186,6 @@
         <published>2016-03-16T00:00:00+00:00</published>
         
         <summary type="html">&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2016/03/03/cohesion-cornerstone-software-design/</id>
-        <title>Cohesion - The cornerstone of Software Design</title>
-        <link href="http://codurance.com/2016/03/03/cohesion-cornerstone-software-design/"/>
-        <published>2016-03-03T12:10:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;Cohesion is one of the most important concepts in software design. Cohesion is at the core of the vast majority of good design principles and patterns out there, guiding separation of concerns and maintainability. The term cohesion (alongside coupling) was first introduced by Larry Constantine in the late 60s as part of Structured Design and later published in more details by W. Stevens, G. Myers, and L. Constantine in 1974. Due to the growing complexity and cost of software back in the 60s, 70s, and 80s, loads of studies and research around software design and maintainability were done. Although we can still find some of these papers and research online today, they were done in a pre-Internet era and most of the work done during that period is either lost or not easily available.&lt;/p&gt;
 
 </summary>
         
