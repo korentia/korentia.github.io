@@ -1,5 +1,5 @@
 <!--=== Footer ===-->
-<div class="footer-v1">
+<div id="footer-v1" class="footer-v1">
     <div class="footer">
         <div class="container">
             <div class="row">
@@ -21,7 +21,7 @@
                             {% for post in site.posts limit:3 %}
                             <li>
                                 <a href="{{ post.url }}" alt="{{ post.title }}">{{ post.title | truncatewords: 5 }}</a>
-                                <small>{{ post.author | author_links }}</small>
+                                <small>{{ post.author }}</small>
                             </li>
                             {% endfor %}
                         </ul>
@@ -33,11 +33,11 @@
                 <div class="col-md-3 md-margin-bottom-40">
                     <div class="headline"><h2>Useful Links</h2></div>
                     <ul class="list-unstyled link-list">
-                        <li><a href="{{ '/services' | prepend: site.baseurl }}">Services</a><i class="fa fa-angle-right"></i></li>
-                        <li><a href="{{ '/videos' | prepend: site.baseurl }}">Videos</a><i class="fa fa-angle-right"></i></li>
-                        <li><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a><i class="fa fa-angle-right"></i></li>
+                    	<li><a href="{{ '/services/software-creation' | prepend: site.baseurl }}">Software creation</a><i class="fa fa-angle-right"></i></li>
+                        <li><a href="{{ '/services/training' | prepend: site.baseurl }}">Training</a><i class="fa fa-angle-right"></i></li>
                         <li><a href="{{ '/work-with-us' | prepend: site.baseurl }}">Work with us</a><i class="fa fa-angle-right"></i></li>
                         <li><a href="{{ '/aboutus/ourcompany' | prepend: site.baseurl }}">About us</a><i class="fa fa-angle-right"></i></li>
+                        <li><a href="{{ '/policies/privacy' | prepend: site.baseurl }}">Privacy policy</a><i class="fa fa-angle-right"></i></li>
                     </ul>
                 </div><!--/col-md-3-->
                 <!-- End Link List -->                    
