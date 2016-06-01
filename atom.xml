@@ -3,13 +3,25 @@
     <title>Codurance</title>
     <link href="/atom.xml" rel="self"/>
     <link href=""/>
-    <updated>2016-05-31T11:40:19+00:00</updated>
+    <updated>2016-06-01T12:40:30+00:00</updated>
     <id>http://codurance.com</id>
     <author>
         <name>Codurance</name>
         <email>hello@codurance.com</email>
     </author>
     <rights>Copyright (c) Codurance</rights>
+    
+    <entry>
+        <id>/2016/05/25/coordination-in-akka/</id>
+        <title>Coordination in Akka</title>
+        <link href="http://codurance.com/2016/05/25/coordination-in-akka/"/>
+        <published>2016-05-25T00:20:00+00:00</published>
+        
+        <summary type="html">&lt;p&gt;This is the fifth post in the series about integrating sync clients with async systems (&lt;a href=&quot;http://codurance.com/2016/04/28/async-systems-with-sync-clients/&quot;&gt;1, &lt;/a&gt;&lt;a href=&quot;http://codurance.com/2016/04/30/akka-basics/&quot;&gt;2, &lt;/a&gt;&lt;a href=&quot;http://codurance.com/2016/05/10/finite-state-machines-with-akka/&quot;&gt;3, &lt;/a&gt;&lt;a href=&quot;http://codurance.com/2016/05/16/publish-subscribe-model-in-kafka/&quot;&gt;4&lt;/a&gt;). Here we&#39;ll see how to manage the actor&#39;s lifecycle, so our service can use the available resources efficiently.&lt;/p&gt;
+
+</summary>
+        
+    </entry>
     
     <entry>
         <id>/2016/05/25/aws-api-gateway/</id>
@@ -174,18 +186,6 @@
         <published>2016-04-12T00:24:00+00:00</published>
         
         <summary type="html">&lt;p&gt;Yes, there was over engineering. Loads of it. Back in the mid 90s, when I started my career as a developer, the goal was to become an architect. No serious developer would dare writing a single line of code before selecting our preferred design patterns—we would then decide how the business requirements would fit into them. Yes, we would first come up with our architecture, then our macro design (layers) and domain model (including UML diagrams), and then we would think about the business requirements and detailed use cases. Yes, user stories were not really a thing back then. We had long use cases with a basic flow and many alternative flows.&lt;/p&gt;
-
-</summary>
-        
-    </entry>
-    
-    <entry>
-        <id>/2016/03/28/Mutual-Problems/</id>
-        <title>Mutual Problems</title>
-        <link href="http://codurance.com/2016/03/28/Mutual-Problems/"/>
-        <published>2016-03-28T00:00:00+00:00</published>
-        
-        <summary type="html">&lt;p&gt;The HTTPS protocol is the well-established standard for securing our connections. Understanding how this protocol works is not a problem and the corresponding &lt;a href=&quot;https://tools.ietf.org/html/rfc2818&quot;&gt;RFC document&lt;/a&gt; is available since 2000.&lt;/p&gt;
 
 </summary>
         
