@@ -1,4 +1,4 @@
-url: "http://codurance.com"
+url: "http://korentia.com"
 highlighter: pygments
 permalink: pretty
 markdown: rdiscount
@@ -17,12 +17,12 @@ tag_page_layout: tag
 paginate: 10
 paginate_path: "/blog/page:num"
 
-sitename: "Codurance"
+sitename: "Korentia"
 subtitle: "craft at heart"
-email: "hello@codurance.com"
+email: "hola@korentia.com"
 
 googleanalytics:
-  account: UA-46289079-1
+  account: UA-
 
 gems:
   - jekyll-redirect-from
